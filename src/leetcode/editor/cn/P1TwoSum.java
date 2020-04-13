@@ -59,3 +59,4 @@ public class P1TwoSum{
 }
 
 //配置完成测试，拿了一道做过的题来试试，应该是没问题了，可以愉快刷题了！接下来搞git。
+//this is a test of git-nerd-tree.
