@@ -89,6 +89,7 @@ public class P38CountAndSay {
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
+//add something.
 
 //此题为mac上写的第二题，解决了leetcode插件的防重复class问题，接下来我将更改配置，然后解决git提交的问题。
 //回到题目本身，这是一道非常逗比的题目，第一反应是暴力打表，时间一定最快，但想想还是要控制住自己，要提高哈哈。第二反应就是递归，随便写了下就完成了，其中遇到了一些小问题，还是要注意细节。
